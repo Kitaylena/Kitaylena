@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "login": "Kitaylena",
+  "seed": "#7B00FF",
+  "seedFromAvatar": false,
+  "scheme": "fidelity",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "hiiiii! im",
+    "name": "kitaylena",
+    "subtitle": "i do stuff, maybe, i also do random bullshit!",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "stupid street"
+      },
+      {
+        "icon": "code",
+        "label": "html - css - lua/luau"
+      }
+    ]
+  },
+  "about": {
+    "title": "about meeeeee",
+    "items": [
+      {
+        "icon": "code",
+        "label": "webdev (mostly frontend), roblox studio developer"
+      },
+      {
+        "icon": "language",
+        "label": "owner of kitaylena.wtf, Citasune"
+      },
+      {
+        "icon": "brand:youtube",
+        "label": "likes ihasafacelulz series"
+      }
+    ]
+  },
+  "stack": {
+    "title": "what do i do?",
+    "groups": [
+      {
+        "title": "main",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "javascript"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "lua"
+          },
+          {
+            "icon": "brand:luau",
+            "label": "luau"
+          },
+          {
+            "icon": "brand:css",
+            "label": "css"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather",
+      "Citasune",
+      "oneshotthing"
+    ],
+    "overrides": {
+      "pixel-garden": {
+        "text": ""
+      },
+      "Citasune": {
+        "text": ""
+      },
+      "oneshotthing": {
+        "text": "A port of OneShot: Legacy in your web browser."
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:roblox",
+        "url": "https://www.roblox.com/users/149115812/profile"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discordapp.com/users/1120546067373637663"
+      },
+      {
+        "icon": "language",
+        "url": "https://kitaylena.wtf"
+      }
+    ],
+    "variant": "chip",
+    "fill": "filled",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "stupid website",
+        "url": "https://kitaylena.wtf",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "repos",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
