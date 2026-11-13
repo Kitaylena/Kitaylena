@@ -1,9 +1,9 @@
 {
- "key": "a8642c7d",
- "stars": 5,
+ "key": "b8ed0a04",
+ "stars": 7,
  "contributions": 256,
  "repos": 6,
- "followers": 2,
+ "followers": 3,
  "languages": [
   [
    "JavaScript",
@@ -138,7 +138,7 @@
    "url": "https://github.com/Kitaylena/Citasune",
    "text": "A UBG site that is a passion project by Kitaylena.",
    "fork": false,
-   "stars": 2,
+   "stars": 3,
    "language": "JavaScript",
    "topics": []
   },
@@ -149,6 +149,15 @@
    "fork": false,
    "stars": 2,
    "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "autoshot",
+   "url": "https://github.com/Kitaylena/autoshot",
+   "text": "webshot but it preloads the game files smh",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
    "topics": []
   },
   {
@@ -167,15 +176,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "autoshot",
-   "url": "https://github.com/Kitaylena/autoshot",
-   "text": "webshot but it preloads the game files smh",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
    "topics": []
   },
   {
