@@ -1,5 +1,5 @@
 {
- "key": "b8ed0a04",
+ "key": "dd3bfae3",
  "stars": 7,
  "contributions": 256,
  "repos": 6,
@@ -122,9 +122,13 @@
    {
     "c": 2,
     "day": 13,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 14,
+    "today": true
+   }
   ]
  ],
  "streak": {
