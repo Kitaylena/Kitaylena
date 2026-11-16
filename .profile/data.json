@@ -1,7 +1,7 @@
 {
- "key": "8c770304",
+ "key": "960e54a7",
  "stars": 7,
- "contributions": 256,
+ "contributions": 197,
  "repos": 6,
  "followers": 3,
  "languages": [
@@ -97,9 +97,13 @@
    {
     "c": 0,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
