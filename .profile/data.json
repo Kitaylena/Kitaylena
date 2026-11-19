@@ -1,5 +1,5 @@
 {
- "key": "deac3665",
+ "key": "2fb2744",
  "stars": 7,
  "contributions": 197,
  "repos": 6,
@@ -112,9 +112,13 @@
    {
     "c": 0,
     "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
     "today": true
    },
-   null,
    null,
    null
   ]
